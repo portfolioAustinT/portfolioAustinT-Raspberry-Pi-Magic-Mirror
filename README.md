@@ -23,4 +23,4 @@ In this project, I was exploring various cables and components to understand the
 
 ## Conclusion
 
-To conclude, this project enhanced my understanding of both hardware and software aspects of the Rasbperry Pi by providing valuable hands-on experience. The Magic Mirror showcased the versatility of this powerful mini computer in creating innovative projects. The possibility of merging technology with everyday objects for practical applications becomes limitless.
+To summarize, this project enhanced my understanding of both hardware and software aspects of the Rasbperry Pi by providing valuable hands-on experience. The Magic Mirror showcased the versatility of this powerful mini computer in creating innovative projects. The possibility of merging technology with everyday objects for practical applications becomes limitless.
