@@ -23,4 +23,4 @@ In this project, I was exploring various cables and components to understand the
 
 ## Conclusion
 
-To summarize, implementing a firewall on systems increases the security posture of organizations. By activating Microsoft Firewall and configuring multiple profiles, including Domain Network, Private Network, and Public Network, I achieved my goal to fortify the system against potential threats. Allowing specific applications such as FireFox to communicate through the Firewall while restricting unauthorized access through inbound rules demonstrates the importance of a firewall in safeguarding sensitive data and preventing unauthorized network intrusions.  
+To conclude, this project enhanced my understanding of both hardware and software aspects of the Rasbperry Pi by providing valuable hands-on experience. The Magic Mirror showcased the versatility of this powerful mini computer in creating innovative projects. The possibility of merging technology with everyday objects for practical applications becomes limitless. This knowledge is transfferable to various projects and can be applied in both personal and proffessional settings. 
